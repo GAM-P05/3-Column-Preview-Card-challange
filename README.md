@@ -19,8 +19,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
--   Solution URL: [](https://www.frontendmentor.io/solutions/3column-preview-flexbox-yg_HHLrYW0)
--   Live Site URL: [](https://lustrous-horse-00abc1.netlify.app/)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/3column-preview-flexbox-yg_HHLrYW0)
+-   Live Site URL: [Live Site](https://lustrous-horse-00abc1.netlify.app/)
 
 ## My process
 
